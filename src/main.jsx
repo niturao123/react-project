@@ -6,6 +6,8 @@ import App from './App.jsx'
 import Navbar from './Navbar.jsx'
 import Header from './Props.jsx'
 import TodoList from './curly.jsx'
+import Card from './Cards.jsx'
+import Profile from './Conditinol.jsx'
 
 
 createRoot(document.getElementById('root')).render(
